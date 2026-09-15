@@ -201,7 +201,7 @@ class GameLevelWater {
 
     // Nezuko NPC sprite data
     const sprite_src_nezuko = path + "/images/gamify/water/nezuko.png"; // be sure to include the path
-    const sprite_greet_nezuko = "I've never seen you before. Are you lost? Well, even if you are.. I don't think I'm going to help you get out of here.";
+    const sprite_greet_nezuko = "I've never seen you before. Are you lost?";
     const platformerLink = "https://pages.opencodingsociety.com/navigation/game.html"; // Replace this with your actual platformer game link
 
     const sprite_data_nezuko = {
